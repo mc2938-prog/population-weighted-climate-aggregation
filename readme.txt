@@ -4,7 +4,7 @@ Project description: The goal of this project is to analyze and visualize popula
 The project processes raster climate data, aggregates it into annual averages, computes temperature anomalies, and creates visualizations (maps and line plots) for each year from 1901 to 2012.
 It generates a video showing the evolution of temperature anomalies over time.
 
-Section 1 (Preliminary stuff)
+Section 1 (Initial setup)
 _________
 
 - Here, I am downloading the main packages, namely sf, terra, RColorBrewer, Matrix, tmaptools, rworldmap and parallel.
