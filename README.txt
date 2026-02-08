@@ -1,5 +1,3 @@
-AEM 6850 HW 2
-
 Project description: The goal of this project is to analyze and visualize population-weighted climate data at the country level.
 The project processes raster climate data, aggregates it into annual averages, computes temperature anomalies, and creates visualizations (maps and line plots) for each year from 1901 to 2012.
 It generates a video showing the evolution of temperature anomalies over time.
